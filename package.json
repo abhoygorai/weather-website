@@ -1,0 +1,16 @@
+{
+  "name": "weather-website",
+  "version": "1.0.0",
+  "description": "this is a website which will display weather of a perticular city",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhoygorai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18",
+    "update": "^0.7.4"
+  }
+}
