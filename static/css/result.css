@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(182, 251, 251);
+}
+
+#main-screen{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 20px 5px rgb(92, 195, 195);
+    border-radius: 70px;
+    /* display: inline; */
+}
+
+#main-row{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    height: 800px;
+}
+
+#void-row{
+    height: 100px;
+}
+
+.col-6{
+    height: 200px;
+    /* background-color: blue; */
+}
+
+#inside-row{
+    margin-top: 50px;
+}
+
+.inside-div{
+    background-color: rgb(182, 251, 251);
+    height: 200px;
+    border-radius: 35px;
+}
+
+.left-inside-div{
+    margin-left: 40px;
+    margin-right: 15px;
+}
+
+.right-inside-div{
+    margin-left: 15px;
+    margin-right: 40px;
+}
